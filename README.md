@@ -9,3 +9,5 @@ Making another change
 GUI change 
 
 Full speed!
+
+Full speed with terminal!
